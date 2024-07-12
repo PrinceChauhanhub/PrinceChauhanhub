@@ -1,4 +1,4 @@
-<img src="https://github.com/PrinceChauhanhub/PrinceChauhanhub/blob/main/4401280.jpg" width="100%" >
+<img src="https://github.com/PrinceChauhanhub/PrinceChauhanhub/blob/main/4401280.jpg" width="50%" >
 
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 <h3 align="center">A programmer with the dream to bring your digital dreams to reality.</h3>
