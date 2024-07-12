@@ -1,11 +1,10 @@
-<img src="https://github.com/PrinceChauhanhub/PrinceChauhanhub/blob/main/images.png" width="100%" >
+<img src="https://github.com/PrinceChauhanhub/PrinceChauhanhub/blob/main/4401280.jpg" width="100%" >
 
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 <h3 align="center">A programmer with the dream to bring your digital dreams to reality.</h3>
 
 ## 🏆 GitHub Trophies
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 ![](https://github-profile-trophy.vercel.app/?username=PrinceCHauhanhub&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
