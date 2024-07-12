@@ -6,14 +6,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ankan002&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-
+## 🤜🤛 Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python, Machine Learning**
 
-- 📫 How to reach me **princechauhan220103@gmail.com*
+- 📫 How to reach me **princechauhan220103@gmail.com**
 
 - ⚡ Fun fact **All programmers are coders but all coders are not programmers.**
 
@@ -34,3 +34,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=PrinceChauhanhub&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrinceChauhanhub&theme=synthwave&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceChauhanhub&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PrinceChauhanhub/count.svg" />
+</p>
