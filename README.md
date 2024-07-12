@@ -1,5 +1,6 @@
-<img src="https://github.com/PrinceChauhanhub/PrinceChauhanhub/blob/main/4401280.jpg" align="center" width="50%" >
-
+<p align="center">
+  <img src="https://github.com/PrinceChauhanhub/PrinceChauhanhub/blob/main/4401280.jpg" width="50%" >
+</p>
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 <h3 align="center">A programmer with the dream to bring your digital dreams to reality.</h3>
 
@@ -38,8 +39,6 @@
 
 # 📈 GitHub Stats:
 <p><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceChauhanhub&theme=radical" alt="abhishekraoas Github Stats" />
-  </p> 
-   <p>
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=PrinceChauhanhub&count_private=true&theme=radical"/>
 </p>
   <p align='center'>
