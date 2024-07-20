@@ -4,15 +4,6 @@
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 <h3 align="center">A programmer with the dream to bring your digital dreams to reality.</h3>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=PrinceCHauhanhub&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-## 💪 Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 - 🌱 I’m currently learning **Machine Learning**
 
