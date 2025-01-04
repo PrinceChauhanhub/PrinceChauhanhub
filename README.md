@@ -29,8 +29,6 @@
 
 
 # 📈 GitHub Stats:
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceChauhanhub&theme=radical" alt="abhishekraoas Github Stats" />
-</p>
 <p align='center'>
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=PrinceChauhanhub&count_private=true&theme=radical"/>
 </p>
