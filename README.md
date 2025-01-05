@@ -29,9 +29,6 @@
 
 
 # 📈 GitHub Stats:
-<p align='center'>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=PrinceChauhanhub&count_private=true&theme=radical"/>
-</p>
   <p align='center'>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceChauhanhub&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
