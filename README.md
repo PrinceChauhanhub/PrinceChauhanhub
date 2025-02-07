@@ -5,9 +5,9 @@
 <h3 align="center">A programmer with the dream to bring your digital dreams to reality.</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python, Machine Learning, NLP, Deep Learning**
 
 - 📫 How to reach me **princechauhan220103@gmail.com**
 
