@@ -22,8 +22,6 @@
 <a href="https://leetcode.com/u/theprincechauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankanbhattacharya89" height="30" width="40" /></a>
 </p>
 
-# 💻 Language and Tools:
-
 
 # 💻 Language and Tools:
 
@@ -63,8 +61,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<p align="center"> 
-  <b>Visitors Counter</b> <br>
-  <img src="https://profile-counter.glitch.me/PrinceChauhanhub/count.svg" />
+## 🚀 Visitors Counter
+
+<p align="center">
+  <b>Visitor Count</b><br>
+  <img src="https://profile-counter.glitch.me/PrinceChauhanhub/count.svg" alt="visitor count"/>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+---
+
+![banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
