@@ -61,10 +61,22 @@
 
 
 
+<h2 align="center">📊 GitHub Stats</h2>
 
-# 📈 GitHub Stats:
-  <p align='center'>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceChauhanhub&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceChauhanhub&theme=tokyonight&hide=jupyter%20notebook&layout=compact&langs_count=8"
+    alt="Top Languages"
+    height="200"
+  />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<p align="center">
+  <img 
+    src="/mnt/data/4b855cf9-ac87-4bb9-bdc7-6de5a80f29c4.png"
+    width="100%"
+  />
+</p>
+
+
 
