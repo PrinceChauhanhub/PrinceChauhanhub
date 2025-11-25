@@ -5,9 +5,7 @@
 <h3 align="center">A programmer with the dream to bring your digital dreams to reality.</h3>
 
 
-- 🌱 I’m currently learning **Agentic Ai**
-
-- 💬 Ask me about **Python, Machine Learning, NLP, Deep Learning, Generative AI**
+- 💬 Ask me about **Python, Machine Learning, NLP, Deep Learning, Generative AI, Agentic AI**
 
 - 📫 How to reach me **princechauhan220103@gmail.com**
 
