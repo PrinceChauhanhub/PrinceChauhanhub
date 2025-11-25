@@ -53,6 +53,15 @@
 ![Google Gemini](https://img.shields.io/badge/gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Groq AI](https://img.shields.io/badge/groq%20AI-FF4B4B?style=for-the-badge&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20(Retrieval--Augmented%20Generation)-6C5CE7?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-4B8BBE?style=for-the-badge&logo=protocols&logoColor=white)
+![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini Embeddings](https://img.shields.io/badge/Gemini%20Embeddings-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
 
 
 # 📈 GitHub Stats:
